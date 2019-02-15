@@ -1,1 +1,9 @@
-学习Python所有相关的记录
+# 学习Python所有相关的记录
+
+由于是使用Jupyter Notebook记录，所以需要执行以下操作。
+
+1）安装Anaconda （程序安装在C:\MyPrograms\Anaconda3）
+2）要运行程序，运行start/Anaconda3(64bit)/jupyter notebook
+启动后，会出现窗口，复制窗口中一下类似的字串到浏览器地址栏中http://localhost:8888/?token=534756d0523a0181a236a8980f5ba4a51e3e19260b2fd6b8
+在浏览器中，找到想要运行的程序(浏览器的根目录是C:\Users\eyunxli)
+使用Edge浏览器(由于浏览器快捷键(autohotkey)的限制，Edge没有被管理，所以Esc不会最小化浏览器。其他浏览器会被最小化并隐藏)
